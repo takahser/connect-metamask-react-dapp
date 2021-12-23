@@ -9,5 +9,5 @@ ReactDOM.render(
       <App />
     </DAppProvider>
   </React.StrictMode>,
-  document.getElementById("root")
+  document.getElementById("metamask-button")
 );
